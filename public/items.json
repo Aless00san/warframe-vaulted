@@ -1,0 +1,1122 @@
+[
+  {
+    "id": 1,
+    "name": "Ash Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 2,
+    "name": "Atlas Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-19"
+  },
+  {
+    "id": 3,
+    "name": "Banshee Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-04-10"
+  },
+  {
+    "id": 4,
+    "name": "Baruuk Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-06-05"
+  },
+  {
+    "id": 5,
+    "name": "Chroma Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-08-28"
+  },
+  {
+    "id": 6,
+    "name": "Ember Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 7,
+    "name": "Equinox Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-07-31"
+  },
+  {
+    "id": 8,
+    "name": "Frost Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 9,
+    "name": "Gara Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-07-03"
+  },
+  {
+    "id": 10,
+    "name": "Garuda Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 11,
+    "name": "Gauss Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-04-16"
+  },
+  {
+    "id": 12,
+    "name": "Grendel Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-04-16"
+  },
+  {
+    "id": 13,
+    "name": "Harrow Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 14,
+    "name": "Hildryn Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-11-20"
+  },
+  {
+    "id": 15,
+    "name": "Hydroid Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 16,
+    "name": "Inaros Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 17,
+    "name": "Ivara Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 18,
+    "name": "Khora Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 19,
+    "name": "Limbo Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-02-06"
+  },
+  {
+    "id": 20,
+    "name": "Loki Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 21,
+    "name": "Mag Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-09-25"
+  },
+  {
+    "id": 22,
+    "name": "Mesa Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 23,
+    "name": "Mirage Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-04-10"
+  },
+  {
+    "id": 24,
+    "name": "Nekros Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 25,
+    "name": "Nezha Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-10-23"
+  },
+  {
+    "id": 26,
+    "name": "Nidus Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-03-13"
+  },
+  {
+    "id": 27,
+    "name": "Nova Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-03-19"
+  },
+  {
+    "id": 28,
+    "name": "Oberon Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 29,
+    "name": "Octavia Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-10-23"
+  },
+  {
+    "id": 30,
+    "name": "Protea Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": null
+  },
+  {
+    "id": 31,
+    "name": "Revenant Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-06-05"
+  },
+  {
+    "id": 32,
+    "name": "Rhino Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": "2026-05-14"
+  },
+  {
+    "id": 33,
+    "name": "Saryn Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 34,
+    "name": "Titania Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-07-03"
+  },
+  {
+    "id": 35,
+    "name": "Trinity Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-03-19"
+  },
+  {
+    "id": 36,
+    "name": "Vauban Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-19"
+  },
+  {
+    "id": 37,
+    "name": "Volt Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 38,
+    "name": "Wisp Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-11-20"
+  },
+  {
+    "id": 39,
+    "name": "Wukong Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-07-31"
+  },
+  {
+    "id": 40,
+    "name": "Zephyr Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2025-08-28"
+  },
+  {
+    "id": 41,
+    "name": "Acceltra Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-04-16"
+  },
+  {
+    "id": 42,
+    "name": "Afuris Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2025-06-05"
+  },
+  {
+    "id": 43,
+    "name": "Akarius Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-04-16"
+  },
+  {
+    "id": 44,
+    "name": "Akbolto Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2025-04-10"
+  },
+  {
+    "id": 45,
+    "name": "Akjagara Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 46,
+    "name": "Aksomati Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 47,
+    "name": "Akstiletto Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-19"
+  },
+  {
+    "id": 48,
+    "name": "Aklex Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-04-17"
+  },
+  {
+    "id": 49,
+    "name": "Akmagnus Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-05-01"
+  },
+  {
+    "id": 50,
+    "name": "Akvasto Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-05-15"
+  },
+  {
+    "id": 51,
+    "name": "Ankyros Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": "2026-05-14"
+  },
+  {
+    "id": 52,
+    "name": "Astilla Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-07-03"
+  },
+  {
+    "id": 53,
+    "name": "Ballistica Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 54,
+    "name": "Baza Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 55,
+    "name": "Bo Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 56,
+    "name": "Boar Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-09-25"
+  },
+  {
+    "id": 57,
+    "name": "Boltor Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": "2026-05-14"
+  },
+  {
+    "id": 58,
+    "name": "Cobra & Crane Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-06-05"
+  },
+  {
+    "id": 59,
+    "name": "Corinth Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-07-03"
+  },
+  {
+    "id": 60,
+    "name": "Dakra Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-09-25"
+  },
+  {
+    "id": 61,
+    "name": "Destreza Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-02-06"
+  },
+  {
+    "id": 62,
+    "name": "Dual Kamas Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-03-19"
+  },
+  {
+    "id": 63,
+    "name": "Dual Keres Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 64,
+    "name": "Euphona Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2025-04-10"
+  },
+  {
+    "id": 65,
+    "name": "Fragor Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-19"
+  },
+  {
+    "id": 66,
+    "name": "Fulmin Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-11-20"
+  },
+  {
+    "id": 67,
+    "name": "Galatine Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 68,
+    "name": "Gotva Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-03-06"
+  },
+  {
+    "id": 69,
+    "name": "Glaive Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 70,
+    "name": "Gram Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-08-28"
+  },
+  {
+    "id": 71,
+    "name": "Guandao Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-10-23"
+  },
+  {
+    "id": 72,
+    "name": "Gunsen Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-11-20"
+  },
+  {
+    "id": 73,
+    "name": "Hystrix Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 74,
+    "name": "Karyst Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 75,
+    "name": "Knell Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 76,
+    "name": "Kogake Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-04-10"
+  },
+  {
+    "id": 77,
+    "name": "Kronen Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-08-28"
+  },
+  {
+    "id": 78,
+    "name": "Magnus Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-05-01"
+  },
+  {
+    "id": 79,
+    "name": "Masseter Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-04-16"
+  },
+  {
+    "id": 80,
+    "name": "Latron Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 81,
+    "name": "Nagantaka Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 82,
+    "name": "Nami Skyla Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 83,
+    "name": "Nikana Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 84,
+    "name": "Ninkondi Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-07-31"
+  },
+  {
+    "id": 85,
+    "name": "Okina Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": null
+  },
+  {
+    "id": 86,
+    "name": "Pangolin Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-07-03"
+  },
+  {
+    "id": 87,
+    "name": "Pandero Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2025-10-23"
+  },
+  {
+    "id": 88,
+    "name": "Panthera Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 89,
+    "name": "Phantasma Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-06-05"
+  },
+  {
+    "id": 90,
+    "name": "Pyrana Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2025-02-06"
+  },
+  {
+    "id": 91,
+    "name": "Reaper Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 92,
+    "name": "Redeemer Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 93,
+    "name": "Rubico Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-08-28"
+  },
+  {
+    "id": 94,
+    "name": "Scourge Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 95,
+    "name": "Sicarus Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 96,
+    "name": "Silva & Aegis Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 97,
+    "name": "Soma Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-03-19"
+  },
+  {
+    "id": 98,
+    "name": "Spira Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 99,
+    "name": "Stradavar Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-07-31"
+  },
+  {
+    "id": 100,
+    "name": "Strun Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-03-13"
+  },
+  {
+    "id": 101,
+    "name": "Sybaris Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 102,
+    "name": "Tatsu Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-06-05"
+  },
+  {
+    "id": 103,
+    "name": "Tekko Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-19"
+  },
+  {
+    "id": 104,
+    "name": "Tenora Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-10-23"
+  },
+  {
+    "id": 105,
+    "name": "Tiberon Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-08-28"
+  },
+  {
+    "id": 106,
+    "name": "Tigris Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 107,
+    "name": "Tipedo Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-07-31"
+  },
+  {
+    "id": 108,
+    "name": "Vasto Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-05-15"
+  },
+  {
+    "id": 109,
+    "name": "Vectis Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 110,
+    "name": "Velox Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": null
+  },
+  {
+    "id": 111,
+    "name": "Volnus Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2025-07-03"
+  },
+  {
+    "id": 112,
+    "name": "Zakti Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2025-10-23"
+  },
+  {
+    "id": 113,
+    "name": "Zhuge Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2025-07-31"
+  },
+  {
+    "id": 114,
+    "name": "Carrier Prime",
+    "category": "Companion",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 115,
+    "name": "Dethcube Prime",
+    "category": "Companion",
+    "vaulted": true,
+    "lastUnvault": "2026-02-19"
+  },
+  {
+    "id": 116,
+    "name": "Helios Prime",
+    "category": "Companion",
+    "vaulted": true,
+    "lastUnvault": "2025-04-10"
+  },
+  {
+    "id": 117,
+    "name": "Shade Prime",
+    "category": "Companion",
+    "vaulted": true,
+    "lastUnvault": "2025-11-20"
+  },
+  {
+    "id": 118,
+    "name": "Wyrm Prime",
+    "category": "Companion",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 119,
+    "name": "Corvas Prime",
+    "category": "Archwing",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 120,
+    "name": "Larkspur Prime",
+    "category": "Archwing",
+    "vaulted": true,
+    "lastUnvault": "2025-11-20"
+  },
+  {
+    "id": 121,
+    "name": "Odonata Prime",
+    "category": "Archwing",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 122,
+    "name": "Kavasa Prime Kubrow Collar",
+    "category": "Companion",
+    "vaulted": true,
+    "lastUnvault": "2026-03-19"
+  },
+  {
+    "id": 123,
+    "name": "Zylok Prime",
+    "category": "Secondary",
+    "vaulted": true,
+    "lastUnvault": "2026-04-16"
+  },
+  {
+    "id": 124,
+    "name": "Nyx Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": "2026-05-14"
+  },
+  {
+    "id": 125,
+    "name": "Valkyr Prime",
+    "category": "Warframe",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 126,
+    "name": "Cernos Prime",
+    "category": "Primary",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 127,
+    "name": "Hikou Prime",
+    "category": "Secondary",
+    "vaulted": false,
+    "lastUnvault": "2026-05-14"
+  },
+  {
+    "id": 128,
+    "name": "Scindo Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": "2026-05-14"
+  },
+  {
+    "id": 129,
+    "name": "Venka Prime",
+    "category": "Melee",
+    "vaulted": true,
+    "lastUnvault": "2026-02-12"
+  },
+  {
+    "id": 130,
+    "name": "Caliban Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 131,
+    "name": "Gyre Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 132,
+    "name": "Lavos Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 133,
+    "name": "Sevagoth Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 134,
+    "name": "Voruna Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 135,
+    "name": "Xaku Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 136,
+    "name": "Yareli Prime",
+    "category": "Warframe",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 137,
+    "name": "Alternox Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 138,
+    "name": "Cedo Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 139,
+    "name": "Daikyu Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 140,
+    "name": "Dual Zoren Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 141,
+    "name": "Epitaph Prime",
+    "category": "Secondary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 142,
+    "name": "Kestrel Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 143,
+    "name": "Kompressa Prime",
+    "category": "Secondary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 144,
+    "name": "Perigale Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 145,
+    "name": "Quassus Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 146,
+    "name": "Sarofang Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 147,
+    "name": "Trumna Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 148,
+    "name": "Nautilus Prime",
+    "category": "Companion",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 149,
+    "name": "Vadarya Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 150,
+    "name": "Venato Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 151,
+    "name": "Akbronco Prime",
+    "category": "Secondary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 152,
+    "name": "Braton Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 153,
+    "name": "Bronco Prime",
+    "category": "Secondary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 154,
+    "name": "Burston Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 155,
+    "name": "Fang Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 156,
+    "name": "Galariak Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 157,
+    "name": "Lex Prime",
+    "category": "Secondary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 158,
+    "name": "Orthos Prime",
+    "category": "Melee",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 159,
+    "name": "Paris Prime",
+    "category": "Primary",
+    "vaulted": false,
+    "lastUnvault": null
+  },
+  {
+    "id": 160,
+    "name": "Sagek Prime",
+    "category": "Secondary",
+    "vaulted": false,
+    "lastUnvault": null
+  }
+]
